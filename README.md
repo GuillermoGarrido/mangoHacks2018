@@ -11,7 +11,15 @@ Team Members: Guillermo Garrido, Isaac Ghobrial, Tina Suizzo, Gabi
 
 Using the power of the Solidworks, the German Rep Rap 3D Printer, the Arduino Uno and IDE, we have automated the tedious process of finishing a 3D print made from SLA filament. 
 
-# How It Works
+# How it Works
+
+# How to use Python on an Arduino Uno
+1. Install the Arduino IDE
+2. Download Python (2.7 or above)
+3. Install PySerial (a Python API module)
+4. Write a program in the Arduino IDE, and upload it to your Arduino
+5. Write a second program (such as one to blink an LED) in Python using either the Python shell or another IDE (e.g. PyCharm)
+6. Run your Python program and enjoy!
 
 
 
