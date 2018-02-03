@@ -13,6 +13,7 @@ Using the power of the Solidworks, the German Rep Rap 3D Printer, the Arduino Un
 
 # How it Works
 
+
 # How to use Python on an Arduino Uno
 1. Install the Arduino IDE
 2. Download Python (2.7 or above)
